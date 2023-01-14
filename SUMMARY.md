@@ -2,7 +2,7 @@
 
 * [🧜‍♀️👯‍♂️✨ Pole ABC Inspiration Group ✨👯‍♂️🧞‍♀️](README.md)
 
-## Tricks
+## A tricks
 
 * [Aerial body waves \[intermediate\]](tricks/aerial-body-waves-intermediate.md)
 * [Aerial Invert \[intermediate\]](tricks/aerial-invert-intermediate.md)
@@ -24,20 +24,51 @@
 * [Asstastic Thirsttrap \[beginner\] \[choreo trick\] \[sensual\]](tricks/asstastic-thirsttrap-beginner-choreo-trick-sensual.md)
 * [Ayesha  \[intermediate\] \[advanced\]](tricks/ayesha-intermediate-advanced.md)
 * [A combo's, choreo's & flows](tricks/a-combos-choreos-and-flows.md)
+
+## B tricks
+
 * [B-Hook \[beginner\]](tricks/b-hook-beginner.md)
 * [Baby Kip \[beginner\] \[choreo trick\]](tricks/baby-kip-beginner-choreo-trick.md)
 * [Baby Snake (Pirate) \[intermediate\]](tricks/baby-snake-pirate-intermediate.md)
-* [Backhook \[beginner\]](tricks/backhook-beginner.md)
 * [Back Swing Knee Jump \[intermediate\] \[advanced\] \[choreo trick\]](tricks/back-swing-knee-jump-intermediate-advanced-choreo-trick.md)
 * [Back-To-Pole \[beginner\] \[Choreo trick\]](tricks/back-to-pole-beginner-choreo-trick.md)
-* [BAL – BAT](tricks/bal-bat.md)
-* [BE – BI](tricks/b.md)
-* [BOD – BON](tricks/bod-bon.md)
-* [BOS – BOW](tricks/bos-bow.md)
-* [BRA – BRA](tricks/bra-bra.md)
-* [BRI – BUD](tricks/bri-bud.md)
-* [BUT – BUT](tricks/but-but.md)
+* [Backhook \[beginner\]](tricks/backhook-beginner.md)
+* [Back-To-Pole \[beginner\] \[Choreo trick\]](tricks/back-to-pole-beginner-choreo-trick.md)
+* [Ballerina \[beginner\] \[intermediate\]](tricks/ballerina-beginner-intermediate.md)
+
+* [Basic Turn \[beginner\] \[Choreo trick\]](basic-turn-beginner-choreo-trick.md)
+* [Basic Wave \[beginner\] \[intermediate\] \[Choreo trick\]](basic-wave-beginner-intermediate-choreo-trick.md)
+* [Batman (Sky diver) \[advanced\]](batman-sky-diver-advanced.md)
+* [Bees Knees \[intermediate\]](bees-knees-intermediate.md)
+* [Bendy Philly \[advanced\]](bendy-philly-advanced.md)
+* [Bird \[beginner\] \[intermediate\]](bird-beginner-intermediate.md)
+* [Bird of Paradise \[advanced\]](bird-of-paradise-advanced.md)
+* [Body Rolls \[beginner\]  \[Choreo trick\]](body-rolls-beginner-choreo-trick.md)
+* [Body Wave \[beginner\] \[intermediate\] \[Choreo trick\]](body-wave-beginner-intermediate-choreo-trick.md)
+* [Bondage Split \[advanced\]](bondage-split-advanced.md)
+* [Boomerang \[beginner\]](boomerang-beginner.md)
+* [Boomerang Flip \[intermediate\] \[Choreo trick\]](boomerang-flip-intermediate-choreo-trick.md)
+* [Bosnimf \[beginner\](bosnimf-beginner.md)
+* [Bow & arrow (Archer) \[beginner\] \[intermediate\]](bow-and-arrow-archer-beginner-intermediate.md)
+* [Bowl \[Beginner\] \[Intermediate\] \[Choreo trick\]](bowl-beginner-intermediate-choreo-trick.md)
+* [Brass Monkey \[intermediate\] \[advanced\]](brass-monkey-intermediate-advanced.md)
+* [Brass Monkey Sit Up \[beginner\] \[Choreo trick\]](brass-monkey-sit-up-beginner-choreo-trick.md)
+* [Brass Sit \[beginner\](brass-sit-beginner.md)
+* [Bright Moon \[advanced\]](bright-moon-advanced.md)
+* [Broken Clown (Scorpio variation or Handspring Variation or Zig-Zag) \[intermediate\]](broken-clown-scorpio-variation-handspring-variation-
+zig-zag-intermediate.md)
+* [Broken Doll \[intermediate\] \[advanced\]](broken-doll-intermediate-advanced.md)
+* [Broken Dragon \[intermediate\] \[advanced\]](broken-dragon-intermediate-advanced.md)
+* [Broken Heart \[beginner\]](broken-heart-beginner.md)
+* [Buddha \[beginner\] \[intermediate\]](buddha-beginner-intermediate.md)
+* [Butt Pivot \[beginner\] \[Choreo trick\]](butt-pivot-beginner-choreo-trick.md)
+* [Butterfly  \[beginner\] \[intermediate\] \[advanced\]](butterfly-beginner-intermediate-advanced.md)
+* [Butthold Superman  \[intermediate\]](butthold-superman-intermediate.md)
+
 * [B combo's, choreo's & flows](tricks/b-combos-choreos-and-flows.md)
+
+## C tricks
+
 * [CAR – CAR](tricks/c.md)
 * [CAT – CHIL](tricks/c-1.md)
 * [CHIN – CHIR](tricks/c-2.md)
@@ -47,16 +78,25 @@
 * [CRO – CRU](tricks/c-6.md)
 * [CUP – CUP](tricks/c-7.md)
 * [C combo's choreo's & flows](tricks/c-combos-choreos-and-flows.md)
+
+## D tricks
+
 * [D – DAN](tricks/d.md)
 * [DAP – DEV](tricks/d-1.md)
 * [DIA – DIV](tricks/d-2.md)
 * [DOL – DRA](tricks/d-3.md)
 * [DRO – DYN](tricks/d-4.md)
 * [D combo's choreo's & flows](tricks/d-combos-choreos-and-flows.md)
+
+## E tricks
+
 * [ECL – ELB](tricks/e.md)
 * [ELE – ERO](tricks/e-1.md)
 * [EYE – EXO](tricks/e-2.md)
 * [E combo's, choreo's & flows](tricks/e-combos-choreos-and-flows.md)
+
+## F tricks
+
 * [FAL – FIG](tricks/f.md)
 * [FIR – FIS](tricks/f-1.md)
 * [FLA – FLOA](tricks/f-2.md)
@@ -65,10 +105,16 @@
 * [FON – FOR](tricks/f-4.md)
 * [FR – FU](tricks/f-5.md)
 * [F combo's, choreo's & flows](tricks/f-combos-choreos-and-flows.md)
+
+## G tricks
+
 * [GAL – GAR](tricks/g.md)
 * [GEM – GEN](tricks/g-1.md)
 * [GET – GRO](tricks/g-2.md)
 * [G combo's, choreo's & flows](tricks/g-combos-choreos-and-flows.md)
+
+## H tricks
+
 * [HAI – HAL](tricks/h.md)
 * [HAND – HAND](tricks/h-1.md)
 * [HAND – HAND](tricks/h-2.md)
@@ -77,35 +123,59 @@
 * [HERC – HERO](tricks/h-5.md)
 * [HIP – HIP](tricks/h-6.md)
 * [HOL – HUR](tricks/h-7.md)
+
+## I tricks
+
 * [IC – INF](tricks/i.md)
 * [INS – INS](tricks/i-1.md)
 * [INV – INV](tricks/i-2.md)
 * [IR](tricks/i-3.md)
 * [I combo's choreo's & flows](tricks/i-combos-choreos-and-flows.md)
+
+## J tricks
+
 * [JAD – JAD](tricks/j.md)
 * [JAL – JAS](tricks/j-1.md)
 * [JUJ – JUM](tricks/j-2.md)
 * [J combo's, choreo's & flows](tricks/j-combos-choreos-and-flows.md)
+
+## K tricks
+
 * [KA – KE](tricks/k.md)
 * [KIM – KIP](tricks/k-1.md)
 * [KNE – KNE](tricks/k-2.md)
 * [KNO – K](tricks/k-3.md)
+
+## L tricks
+
 * [LA – LA](tricks/l.md)
 * [LEG – LEG](tricks/l-1.md)
 * [LEV – LIZ](tricks/l-2.md)
 * [LOG – LOW](tricks/l-3.md)
 * [L combo's, choreo's & flows](tricks/l-combos-choreos-and-flows.md)
+
+## M tricks
+
 * [MAC – MAN](tricks/m.md)
 * [MAR – MAX](tricks/m-1.md)
 * [ME – MO](tricks/m-2.md)
 * [M combos, choreo's & flows](tricks/m-combos-choreos-and-flows.md)
+
+## N tricks
+
 * [NA – NI](tricks/n.md)
 * [NE – NO](tricks/n-1.md)
 * [N combo's, choreo's & flows](tricks/n-combos-choreos-and-flows.md)
+
+## O tricks
+
 * [OA – OD](tricks/o.md)
 * [ON – OO](tricks/o-1.md)
 * [ORI – ORN](tricks/o-2.md)
 * [OU – OV](tricks/o-3.md)
+
+## P tricks
+
 * [PEG – PEN](tricks/p.md)
 * [PH – PL](tricks/p-1.md)
 * [PLA – PLU](tricks/p-2.md)
@@ -114,8 +184,17 @@
 * [PRA – PRE](tricks/p-5.md)
 * [PRI – PYT](tricks/p-6.md)
 * [P combo's, choreo's & flows](tricks/p-combos-choreos-and-flows.md)
+
+## Q tricks
+
 * [Q – QU](tricks/q.md)
+
+## R tricks
+
 * [R](tricks/r.md)
+
+## S tricks
+
 * [S](tricks/s/README.md)
   * [Beginner S](tricks/s/s/README.md)
     * [Sad Girl (shy girl) \[beginner\]](tricks/s/s/sad-girl-shy-girl-beginner.md)
@@ -170,12 +249,33 @@
   * [Advanced S](tricks/s/advanced-s/README.md)
     * [Skydancer \[advanced\]](tricks/s/advanced-s/skydancer-advanced.md)
     * [Spatchcock \[advanced\] \[expert\]](tricks/s/advanced-s/spatchcock-advanced-expert.md)
+
+## T tricks
+
 * [T](tricks/t.md)
+
+## U tricks
+
 * [U](tricks/u.md)
+
+## V tricks
+
 * [V](tricks/v.md)
+
+## W tricks
+
 * [W](tricks/w.md)
+
+## X tricks
+
 * [X](tricks/x.md)
+
+## Y tricks
+
 * [Y](tricks/y.md)
+
+## Z tricks
+
 * [Z](tricks/z.md)
 
 ## More
