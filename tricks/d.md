@@ -1,0 +1,27 @@
+# D – DAN
+
+## D (Inverted D) \[intermediate]
+
+{% embed url="https://www.youtube.com/watch?v=WjkSm1-EDpE" %}
+
+## Daisy Chains \[beginner] \[choreo trick]
+
+Click the link!
+
+{% embed url="https://www.instagram.com/p/CH0Ym6xhdtfoOHmmPUz1-TkwkDFrddbx3sc9_E0/" %}
+
+## Dangerous Bird \[intermediate - advanced]
+
+{% embed url="https://www.youtube.com/watch?v=8LL4eEuCp_Q" %}
+
+## Dangerous Brian \[intermediate - advanced]
+
+{% embed url="https://www.youtube.com/watch?v=kCnWgFwvF20" %}
+
+## Dangerous Bridge \[advanced]
+
+{% embed url="https://www.instagram.com/p/B4SZQ_MBXvX/" %}
+
+## Dangerous Nathalie \[advanced]
+
+{% embed url="https://www.instagram.com/p/B2lXQm0BeaC/" %}
