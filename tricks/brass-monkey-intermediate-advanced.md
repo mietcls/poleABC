@@ -1,14 +1,4 @@
-# BRA – BRA
-
-## Brass Monkey Sit Up \[beginner] \[choreo trick] \[sensual]
-
-{% embed url="https://www.instagram.com/p/CMMLZM2hENP/" %}
-
-## Brass Sit \[beginner]
-
-{% embed url="https://www.youtube.com/watch?v=T4HGujcMaXw" %}
-
-## Brass Monkey \[intermediate] \[advanced]
+# Brass Monkey \[intermediate] \[advanced]
 
 {% embed url="https://www.youtube.com/watch?v=Hq1WQD-WEMU" %}
 
@@ -28,9 +18,8 @@ Follow Dan Rosen first!
 
 {% embed url="https://www.instagram.com/reel/CYycUK5O505" %}
 
-## Brass Monkey Variation \[advanced]
+# Brass Monkey Variation \[advanced]
 
 Click the link!
 
 {% embed url="https://www.instagram.com/reel/CadqVHjF3xY" %}
-

@@ -1,18 +1,4 @@
-# CAR – CAR
-
-## Carnations \[intermediate]
-
-{% embed url="https://www.instagram.com/p/CGNzh6ro5_z" %}
-
-## Caruso \[intermediate]
-
-{% embed url="https://www.instagram.com/p/CMw5yx7Dcl2/" %}
-
-## Carousel \[beginner]
-
-{% embed url="https://www.youtube.com/watch?v=Tap-qXHJIpQ" %}
-
-## Cartwheel \[beginner] \[choreo] \[sensual]
+# Cartwheel \[beginner] \[choreo] \[sensual]
 
 {% embed url="https://www.instagram.com/p/CId4ojgIUvf/" %}
 3 levels!
