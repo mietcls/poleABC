@@ -33,7 +33,7 @@
 * [Back Swing Knee Jump \[intermediate\] \[advanced\] \[choreo trick\]](tricks/back-swing-knee-jump-intermediate-advanced-choreo-trick.md)
 * [Back-To-Pole \[beginner\] \[Choreo trick\]](tricks/back-to-pole-beginner-choreo-trick.md)
 * [Backhook \[beginner\]](tricks/backhook-beginner.md)
-* [Back-To-Pole \[beginner\] \[Choreo trick\]](tricks/back-to-pole-beginner-choreo-trick.md)
+* [Back to Pole \[beginner\] \[Choreo trick\]](tricks/back-to-pole-beginner-choreo-trick.md)
 * [Ballerina \[beginner\] \[intermediate\]](tricks/ballerina-beginner-intermediate.md)
 
 * [Basic Turn \[beginner\] \[Choreo trick\]](basic-turn-beginner-choreo-trick.md)
