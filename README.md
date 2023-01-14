@@ -6,11 +6,9 @@ description: >-
 
 # 🧜‍♀️👯‍♂️✨ Pole ABC Inspiration Group ✨👯‍♂️🧞‍♀️
 
-## [Start exploring pole moves per letter →](tricks/a-frame-beginner-choreo-trick.md)
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
+{% hint style="info" %}
+🎠 Click the menu to start exploring all tricks!
+{% endhint %}
 
 ## Join the ABC challenge
 
