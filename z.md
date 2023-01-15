@@ -46,7 +46,7 @@ _No tutorial yet, but we have it in one of our tutorials!_
 
 ## Z Seat \[beginner]
 
-It's a Martini Sit! Go to [M](m.md#martini)
+It's a Martini Sit! Go to [M](m/m.md#martini)
 
 {% embed url="https://www.instagram.com/p/CAXJprgBun0/" %}
 
