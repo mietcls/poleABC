@@ -1,77 +1,77 @@
 # A
 
-{% content-ref url="../tricks/aerial-body-waves-intermediate.md" %}
-[aerial-body-waves-intermediate.md](../tricks/aerial-body-waves-intermediate.md)
+{% content-ref url="../a/aerial-body-waves-intermediate.md" %}
+[aerial-body-waves-intermediate.md](../a/aerial-body-waves-intermediate.md)
 {% endcontent-ref %}
 
-{% content-ref url="../tricks/aerial-invert-intermediate.md" %}
-[aerial-invert-intermediate.md](../tricks/aerial-invert-intermediate.md)
+{% content-ref url="../a/aerial-invert-intermediate.md" %}
+[aerial-invert-intermediate.md](../a/aerial-invert-intermediate.md)
 {% endcontent-ref %}
 
-{% content-ref url="../tricks/air-grab-choreo-trick.md" %}
-[air-grab-choreo-trick.md](../tricks/air-grab-choreo-trick.md)
+{% content-ref url="../a/air-grab-choreo-trick.md" %}
+[air-grab-choreo-trick.md](../a/air-grab-choreo-trick.md)
 {% endcontent-ref %}
 
-{% content-ref url="../tricks/air-walk-beginner-intermediate.md" %}
-[air-walk-beginner-intermediate.md](../tricks/air-walk-beginner-intermediate.md)
+{% content-ref url="../a/air-walk-beginner-intermediate.md" %}
+[air-walk-beginner-intermediate.md](../a/air-walk-beginner-intermediate.md)
 {% endcontent-ref %}
 
-{% content-ref url="../tricks/albatros-beginner-intermediate.md" %}
-[albatros-beginner-intermediate.md](../tricks/albatros-beginner-intermediate.md)
+{% content-ref url="../a/albatros-beginner-intermediate.md" %}
+[albatros-beginner-intermediate.md](../a/albatros-beginner-intermediate.md)
 {% endcontent-ref %}
 
-{% content-ref url="../tricks/allegra-intermediate.md" %}
-[allegra-intermediate.md](../tricks/allegra-intermediate.md)
+{% content-ref url="../a/allegra-intermediate.md" %}
+[allegra-intermediate.md](../a/allegra-intermediate.md)
 {% endcontent-ref %}
 
-{% content-ref url="../tricks/allegasus-intermediate-advanced.md" %}
-[allegasus-intermediate-advanced.md](../tricks/allegasus-intermediate-advanced.md)
+{% content-ref url="../a/allegasus-intermediate-advanced.md" %}
+[allegasus-intermediate-advanced.md](../a/allegasus-intermediate-advanced.md)
 {% endcontent-ref %}
 
-{% content-ref url="../tricks/anastasia-intermediate-advanced.md" %}
-[anastasia-intermediate-advanced.md](../tricks/anastasia-intermediate-advanced.md)
+{% content-ref url="../a/anastasia-intermediate-advanced.md" %}
+[anastasia-intermediate-advanced.md](../a/anastasia-intermediate-advanced.md)
 {% endcontent-ref %}
 
-{% content-ref url="../tricks/angel-beginner.md" %}
-[angel-beginner.md](../tricks/angel-beginner.md)
+{% content-ref url="../a/angel-beginner.md" %}
+[angel-beginner.md](../a/angel-beginner.md)
 {% endcontent-ref %}
 
-{% content-ref url="../tricks/ankle-cross-release-beginner.md" %}
-[ankle-cross-release-beginner.md](../tricks/ankle-cross-release-beginner.md)
+{% content-ref url="../a/ankle-cross-release-beginner.md" %}
+[ankle-cross-release-beginner.md](../a/ankle-cross-release-beginner.md)
 {% endcontent-ref %}
 
-{% content-ref url="../tricks/ankle-swivel-intermediate-choreo-trick.md" %}
-[ankle-swivel-intermediate-choreo-trick.md](../tricks/ankle-swivel-intermediate-choreo-trick.md)
+{% content-ref url="../a/ankle-swivel-intermediate-choreo-trick.md" %}
+[ankle-swivel-intermediate-choreo-trick.md](../a/ankle-swivel-intermediate-choreo-trick.md)
 {% endcontent-ref %}
 
-{% content-ref url="../tricks/apprentice-beginner.md" %}
-[apprentice-beginner.md](../tricks/apprentice-beginner.md)
+{% content-ref url="../a/apprentice-beginner.md" %}
+[apprentice-beginner.md](../a/apprentice-beginner.md)
 {% endcontent-ref %}
 
-{% content-ref url="../tricks/arabesque-beginner-intermediate.md" %}
-[arabesque-beginner-intermediate.md](../tricks/arabesque-beginner-intermediate.md)
+{% content-ref url="../a/arabesque-beginner-intermediate.md" %}
+[arabesque-beginner-intermediate.md](../a/arabesque-beginner-intermediate.md)
 {% endcontent-ref %}
 
-{% content-ref url="../tricks/archer-bow-and-arrow-beginner-intermediate.md" %}
-[archer-bow-and-arrow-beginner-intermediate.md](../tricks/archer-bow-and-arrow-beginner-intermediate.md)
+{% content-ref url="../a/archer-bow-and-arrow-beginner-intermediate.md" %}
+[archer-bow-and-arrow-beginner-intermediate.md](../a/archer-bow-and-arrow-beginner-intermediate.md)
 {% endcontent-ref %}
 
-{% content-ref url="../tricks/arm-hold-intermediate.md" %}
-[arm-hold-intermediate.md](../tricks/arm-hold-intermediate.md)
+{% content-ref url="../a/arm-hold-intermediate.md" %}
+[arm-hold-intermediate.md](../a/arm-hold-intermediate.md)
 {% endcontent-ref %}
 
-{% content-ref url="../tricks/around-the-base-intermediate-advanced-choreo-trick-sensual.md" %}
-[around-the-base-intermediate-advanced-choreo-trick-sensual.md](../tricks/around-the-base-intermediate-advanced-choreo-trick-sensual.md)
+{% content-ref url="../a/around-the-base-intermediate-advanced-choreo-trick-sensual.md" %}
+[around-the-base-intermediate-advanced-choreo-trick-sensual.md](../a/around-the-base-intermediate-advanced-choreo-trick-sensual.md)
 {% endcontent-ref %}
 
-{% content-ref url="../tricks/asstastic-thirsttrap-beginner-choreo-trick-sensual.md" %}
-[asstastic-thirsttrap-beginner-choreo-trick-sensual.md](../tricks/asstastic-thirsttrap-beginner-choreo-trick-sensual.md)
+{% content-ref url="../a/asstastic-thirsttrap-beginner-choreo-trick-sensual.md" %}
+[asstastic-thirsttrap-beginner-choreo-trick-sensual.md](../a/asstastic-thirsttrap-beginner-choreo-trick-sensual.md)
 {% endcontent-ref %}
 
-{% content-ref url="../tricks/ayesha-intermediate-advanced.md" %}
-[ayesha-intermediate-advanced.md](../tricks/ayesha-intermediate-advanced.md)
+{% content-ref url="../a/ayesha-intermediate-advanced.md" %}
+[ayesha-intermediate-advanced.md](../a/ayesha-intermediate-advanced.md)
 {% endcontent-ref %}
 
-{% content-ref url="../tricks/a-combos-choreos-and-flows.md" %}
-[a-combos-choreos-and-flows.md](../tricks/a-combos-choreos-and-flows.md)
+{% content-ref url="../a/a-combos-choreos-and-flows.md" %}
+[a-combos-choreos-and-flows.md](../a/a-combos-choreos-and-flows.md)
 {% endcontent-ref %}
