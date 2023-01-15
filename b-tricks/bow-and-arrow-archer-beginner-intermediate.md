@@ -1,4 +1,4 @@
-# Bow & Arrow (Archer) \[beginner] \[intermediate]
+# Bow & arrow (Archer) \[beginner] \[intermediate]
 
 {% embed url="https://www.youtube.com/watch?v=pgl_WQwUD-Y" %}
 
