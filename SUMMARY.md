@@ -310,3 +310,8 @@
 * [Apps](more/apps.md)
 * [More dictionaries](more/pole-tricks-dictionary.md)
 * [Herstory](more/herstory.md)
+
+***
+
+* [All tricks](all-tricks/README.md)
+  * [A](all-tricks/a.md)
