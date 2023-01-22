@@ -20,6 +20,8 @@ Follow Dan Rosen first!
 
 {% embed url="https://www.instagram.com/reel/CYycUK5O505" %}
 
+{% embed url="https://www.youtube.com/watch?v=XyIy3ZA7K0U" %}
+
 ## Brass Monkey Variation \[advanced]
 
 Click the link!
