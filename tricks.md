@@ -100,6 +100,6 @@
 [y.md](y.md)
 {% endcontent-ref %}
 
-{% content-ref url="z.md" %}
-[z.md](z.md)
+{% content-ref url="z/" %}
+[z](z/)
 {% endcontent-ref %}
