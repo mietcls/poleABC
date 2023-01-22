@@ -30,7 +30,6 @@
   * [Back Swing Knee Jump \[intermediate\] \[advanced\] \[choreo trick\]](tricks/back-swing-knee-jump-intermediate-advanced-choreo-trick.md)
   * [Back-To-Pole \[beginner\] \[Choreo trick\]](tricks/back-to-pole-beginner-choreo-trick.md)
   * [Ballerina \[beginner\] \[intermediate\]](tricks/ballerina-beginner-intermediate.md)
-  * [Barbie on a Pole \[intermediate\]](b/barbie-on-a-pole-intermediate.md)
   * [Basic Turn \[beginner\] \[Choreo trick\]](b-tricks/basic-turn-beginner-choreo-trick.md)
   * [Basic Wave \[beginner\] \[intermediate\] \[Choreo trick\]](b-tricks/basic-wave-beginner-intermediate-choreo-trick.md)
   * [Batman (Sky diver) \[advanced\]](b-tricks/batman-sky-diver-advanced.md)
@@ -98,7 +97,6 @@
   * [C combo's choreo's & flows](tricks/c-combos-choreos-and-flows.md)
 * [D](d/README.md)
   * [D (Inverted D) \[intermediate\]](d/d.md)
-  * [Dakini \[intermediate\]](d/dakini-intermediate.md)
   * [Dangerous Bird \[intermediate\] \[advanced\]](d/dangerous-bird-intermediate-advanced.md)
   * [Dangerous Brain \[intermediate\] \[advanced\]](d/dangerous-brain-intermediate-advanced.md)
   * [Dangerous Bridge \[advanced\]](d/dangerous-bridge-advanced.md)
@@ -263,14 +261,9 @@
 * [X](x.md)
 * [Y](y.md)
 * [Z](z/README.md)
-  * [Zazu spin \[intermediate\]](z/zazu-spin-intermediate.md)
   * [Ziggy \[advanced\]](z/z.md)
   * [Ziggy Split \[advanced\]](z/ziggy-split-advanced.md)
   * [Zigzag \[intermediate\] \[advanced\]](z/zigzag-intermediate-advanced.md)
-  * [Zig Zag handstand \[beginner\] \[intermediate\] \[choreo trick\]](z/zig-zag-handstand-beginner-intermediate-choreo-trick.md)
-  * [Zombie \[intermediate\]](z/zombie-intermediate.md)
-  * [Z Pose \[intermediate\]](z/z-pose-intermediate.md)
-  * [Z Seat (Martini) \[beginner\]](z/z-seat-martini-beginner.md)
 
 ## More
 

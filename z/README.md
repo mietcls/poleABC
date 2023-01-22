@@ -1,5 +1,27 @@
 # Z
 
+## Ziggy \[advanced]
+
+_No tutorial yet_
+
+{% embed url="https://www.instagram.com/p/Bs579xXHd3M/" %}
+
+
+
+## Ziggy Split \[advanced]
+
+_No tutorial yet, but we have it in one of our compilations, at the end!_
+
+{% embed url="https://www.instagram.com/p/CKgPniNhK3o/" %}
+
+## Zigzag Version 1 (Bow and Arrow Elbow Grip) \[advanced]
+
+{% embed url="http://poledancedictionary.com/moves/288/bow--and-arrow-elbow-grip/" %}
+
+## Zigzag Version 2 (Broken Clown / handspring variation / Scorpio Variation) \[intermediate]
+
+{% embed url="https://www.instagram.com/p/CGxgn6OhBIE/" %}
+
 ## Zig Zag handstand \[beginner - intermediate] \[choreo trick] \[sensual]
 
 Find the original by @rjpoldancer here! [https://www.instagram.com/tv/CKdmXc9la7-/?utm\_source=ig\_embed](https://www.instagram.com/tv/CKdmXc9la7-/?utm\_source=ig\_embed)
