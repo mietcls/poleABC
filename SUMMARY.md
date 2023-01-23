@@ -174,6 +174,7 @@
   * [Flying K \[advanced\] \[expert\]](f/flying-k-advanced-expert.md)
   * [Flying Spins \[intermediate\] \[advanced\] \[choreo trick\]](f/flying-spins-intermediate-advanced-choreo-trick.md)
   * [Flying Squirrel \[intermediate\] \[advanced\] \[choreo trick\]](f/flying-squirrel-intermediate-advanced-choreo-trick.md)
+  * [Fonji \[advanced\]](f/fonji-advanced.md)
   * [FON – FOR](f/f-4.md)
   * [FR – FU](f/f-5.md)
   * [F combo's, choreo's & flows](f/f-combos-choreos-and-flows.md)
