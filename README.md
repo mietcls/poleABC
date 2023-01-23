@@ -34,10 +34,10 @@ The #poleABC team will encourage you and your journey. The good, the bad and the
 
 ### Inspiration
 
-See all of the tricks you can do!
+See all of the tricks you can do, start with letter A!
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="a/" %}
+[a](a/)
 {% endcontent-ref %}
 
 {% embed url="https://www.instagram.com/pole.abc" %}
