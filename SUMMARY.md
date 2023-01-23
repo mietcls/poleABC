@@ -125,6 +125,7 @@
   * [Drops \[beginner\]](d/d-4.md)
   * [Drop on the knees \[beginner\] \[choreo trick\]](d/drop-on-the-knees-beginner-choreo-trick.md)
   * [Drop split \[choreo trick\] \[intermediate\] \[advanced\]](d/drop-split-choreo-trick-intermediate-advanced.md)
+  * [Duchess \[intermediate\]](d/duchess-intermediate.md)
   * [Dynamic entries \[intermediate\] \[advanced\]](d/dynamic-entries-intermediate-advanced.md)
   * [D combo's choreo's & flows](d/d-combos-choreos-and-flows.md)
 * [E](e/README.md)
