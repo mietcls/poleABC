@@ -1,6 +1,4 @@
-# JAD – JAD
-
-## Jade  \[intermediate] \[advanced]
+# Jade and Jade Variations \[intermediate] \[advanced]
 
 {% embed url="https://www.instagram.com/p/B_PaD7WjYkc/" %}
 
