@@ -1,19 +1,3 @@
-# IC – INF
-
-## Icarina \[intermediate] \[advanced]
+# Icarina \[intermediate] \[advanced]
 
 {% embed url="https://www.instagram.com/p/B1xvs9nh6r5/" %}
-
-## Iguana \[intermediate] \[advanced]
-
-{% embed url="https://www.youtube.com/watch?v=141HyaU3834" %}
-
-## Iguana Pencil \[advanced]
-
-{% embed url="https://www.instagram.com/p/COMvwgchTeJ/?igshid=at3e1ieowix8" %}
-
-## Infinity \[intermediate]
-
-No tutorial yet, but we do have it in our "i" compilation!
-
-{% embed url="https://www.instagram.com/p/CH8jIPaBAB3/" %}
