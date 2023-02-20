@@ -31,3 +31,8 @@
 \[Russian]
 
 {% embed url="https://www.instagram.com/p/CDvV9zOgiiQ/" %}
+
+## Lowflow choreo \[intermediate] \[choreo trick]
+
+{% embed url="https://www.youtube.com/watch?v=meoCfHTB6u8" %}
+
