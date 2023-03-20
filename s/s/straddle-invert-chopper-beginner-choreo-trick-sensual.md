@@ -1,5 +1,3 @@
-# Straddle (invert, chopper) \[beginner] \[choreo trick] \[sensual]
+# Straddle Bang \[beginner] \[intermediate] \[advanced] \[choreo trick]
 
-{% embed url="https://www.youtube.com/watch?v=Y6Mk4Lbf7Yg" %}
-
-{% embed url="https://www.instagram.com/reel/Ca11jYNoTG0" %}
+{% embed url="https://www.instagram.com/p/Cp8KtpUoqqA/" %}
