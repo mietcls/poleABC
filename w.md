@@ -1,19 +1,5 @@
 # W
 
-## Walk Around the Pole \[beginner] \[choreo trick] \[sensual]
-
-{% embed url="https://www.instagram.com/reel/COTCLqdBWlM/?igshid=c7sz6rqbvvsz" %}
-
-{% embed url="https://www.instagram.com/reel/CXI-bUVIzyw" %}
-
-## Walkie Talkie (X Handstand) \[intermediate] \[choreo trick] \[sensual]
-
-Number 3 and 4!
-
-{% embed url="https://www.youtube.com/watch?v=NJkW7BiBo_4" %}
-
-
-
 ## Walkover \[beginner - intermediate] \[choreo trick] \[sensual]
 
 _No tutorial found yet – send a message if you find one 😍_ [_https://www.instagram.com/pole.abc/_](https://www.instagram.com/pole.abc/) _or_ [_pole-abc@miet.be_](mailto:pole-abc@miet.be)__

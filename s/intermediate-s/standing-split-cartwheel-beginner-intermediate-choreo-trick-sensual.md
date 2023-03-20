@@ -1,3 +1,3 @@
-# Standing Split Cartwheel \[beginner] \[intermediate] \[choreo trick] \[sensual]
+# Standing Split \[beginner] \[intermediate] \[choreo trick]
 
-{% embed url="https://www.instagram.com/p/COb1-q_h-tt/?igshid=150lf5lb4jvoe" %}
+{% embed url="https://www.youtube.com/watch?v=WEMRjPl7ax0" %}
