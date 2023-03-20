@@ -1,54 +1,8 @@
 # T
 
-## Tail Sit \[intermediate] \[choreo trick] \[sensual]
+## Tik Tok Legs \[beginner] \[choreo trick]
 
-{% embed url="https://www.instagram.com/p/BqwRXaIlWgx/" %}
-
-## Tatjana Von Onna tutorial \[intermediate] \[choreo trick] \[sensual] \[flow]
-
-{% embed url="https://www.instagram.com/tv/CN0C9sHIh6q/" %}
-
-
-
-## Teardrop \[intermediate - advanced]
-
-{% embed url="https://www.youtube.com/watch?v=C9Bngu59Ns8" %}
-
-## Teddy Bear \[intermediate] \[choreo trick] \[sensual]
-
-{% embed url="https://www.youtube.com/watch?v=lh10Bchs3Gw" %}
-
-{% embed url="https://www.youtube.com/watch?v=QCEcb9ZjXIA" %}
-
-## Teddy Bear Ball \[intermediate]
-
-{% embed url="https://www.instagram.com/p/BrZ1TghI9-v/" %}
-
-## Thigh Hold Tuck \[intermediate]
-
-{% embed url="https://www.instagram.com/p/CGVJiv7o49I/" %}
-
-## Thinker \[beginner]
-
-{% embed url="https://www.youtube.com/watch?v=xLKG2DBTGl8" %}
-
-## Thread \[intermediate] \[choreo trick] \[sensual]
-
-_No tutorial yet! Make one with me 😏?_
-
-{% embed url="https://www.instagram.com/p/B-0YFpWh-dJ/" %}
-
-{% embed url="https://www.instagram.com/p/CM1WQoIBudj/" %}
-
-## Thunder \[intermediate - advanced]
-
-{% embed url="https://www.youtube.com/watch?v=oshebmyrh4Q" %}
-
-
-
-## Tik Tok Legs \[beginner] \[choreo trick] \[sensual]
-
-\[portuguese but very well explaine visually]
+\[portuguese, very well explaine visually]
 
 {% embed url="https://www.instagram.com/p/CHgeShlHCPU/" %}
 
@@ -56,17 +10,13 @@ _No tutorial yet! Make one with me 😏?_
 
 {% embed url="https://www.youtube.com/watch?v=m6rrjQ1V4eo" %}
 
-## Titanic \[beginner - intermediate]
+## Titanic \[beginner] \[intermediate]
 
 {% embed url="https://www.youtube.com/watch?v=SBbNmOXtKo8" %}
 
 {% embed url="https://www.youtube.com/watch?v=z713zwbCb30" %}
 
-{% embed url="https://www.instagram.com/p/CG2-82FBToN/" %}
-
-
-
-## Toilet Spider \[beginner] \[choreo trick] \[sensual]
+## Toilet Spider \[beginner] \[choreo trick]
 
 {% embed url="https://www.youtube.com/watch?v=4pRoUgF3fPU" %}
 
@@ -74,15 +24,11 @@ _No tutorial yet! Make one with me 😏?_
 
 {% embed url="https://www.youtube.com/watch?v=XoTLVRXmJxE" %}
 
-{% embed url="https://www.instagram.com/p/CGXsTWIB25r/" %}
-
-
-
-## Tornado (Oona Sit) \[beginner] \[choreo trick] \[sensual]
+## Tornado (Oona Sit) \[beginner] \[choreo trick]
 
 {% embed url="https://www.youtube.com/watch?v=-nRzH-XUyr0" %}
 
-## Transition \[beginner - intermediate] \[choreo trick] \[sensual]
+## Transition \[beginner] \[intermediate] \[choreo trick]
 
 \[Russian]
 
@@ -100,11 +46,11 @@ _No tutorial yet! Make one with me 😏?_
 
 {% embed url="https://www.youtube.com/watch?v=-HOpzIdF2j0" %}
 
-## Triple Spin \[advanced] \[choreo trick] \[sensual]
+## Triple Spin \[advanced] \[choreo trick]
 
 {% embed url="https://www.youtube.com/watch?v=M_JAxgD7DOI" %}
 
-## True Grip Handspring \[intermediate - advanced]
+## True Grip Handspring \[intermediate] \[advanced]
 
 {% embed url="https://www.youtube.com/watch?v=11TZSXeA9zI" %}
 
@@ -122,7 +68,7 @@ _Send a message if you find a tutorial 😍_ [_https://www.instagram.com/pole.ab
 
 
 
-## Tulip \[beginner - intermediate]
+## Tulip \[beginner] \[intermediate]
 
 {% embed url="https://www.instagram.com/p/B2qfDyKB3BU/" %}
 
@@ -130,7 +76,7 @@ _Send a message if you find a tutorial 😍_ [_https://www.instagram.com/pole.ab
 
 {% embed url="https://www.instagram.com/p/B2qeu5MhoxL/" %}
 
-## Tumble \[intermediate - advanced]
+## Tumble \[intermediate] \[advanced]
 
 _No tutorial found yet, but we do have an example in one of our compilations, at the start!_
 
@@ -138,7 +84,7 @@ _Send a message if you find a tutorial 😍_ [_https://www.instagram.com/pole.ab
 
 {% embed url="https://www.instagram.com/p/CJeVHOrBRMn/" %}
 
-## Turn \[beginner - intermediate] \[choreo trick] \[sensual]
+## Turn \[beginner] \[intermediate] \[choreo trick]
 
 \[Russian, put the comments in google translate]
 
@@ -148,11 +94,11 @@ _Send a message if you find a tutorial 😍_ [_https://www.instagram.com/pole.ab
 
 
 
-## Turn to split \[intermediate] \[choreo trick] \[sensual]
+## Turn to split \[intermediate] \[choreo trick]
 
 {% embed url="https://www.instagram.com/p/CHf8kB2hzz9/" %}
 
-## 360 Turn to Drop \[intermediate] \[choreo trick] \[sensual]
+## 360 Turn to Drop \[intermediate] \[choreo trick]
 
 _No tutorial yet.. Make one with me?!_
 
@@ -219,10 +165,4 @@ No tutorial, but an example in our compilation!
 ## Twisted Split \[beginner] \[choreo trick] \[sensual]
 
 {% embed url="https://www.instagram.com/p/CKexAWMFKOs/" %}
-
-## Twisted Viva \[beginner]
-
-{% embed url="https://www.youtube.com/watch?v=CIv3gRVb_kE" %}
-
-
 

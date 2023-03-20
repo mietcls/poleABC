@@ -76,8 +76,8 @@
 [s](s/)
 {% endcontent-ref %}
 
-{% content-ref url="t.md" %}
-[t.md](t.md)
+{% content-ref url="t/" %}
+[t](t/)
 {% endcontent-ref %}
 
 {% content-ref url="u.md" %}
