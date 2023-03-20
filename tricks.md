@@ -80,8 +80,8 @@
 [t](t/)
 {% endcontent-ref %}
 
-{% content-ref url="u/" %}
-[u](u/)
+{% content-ref url="u.md" %}
+[u.md](u.md)
 {% endcontent-ref %}
 
 {% content-ref url="v.md" %}
@@ -92,8 +92,8 @@
 [w.md](w.md)
 {% endcontent-ref %}
 
-{% content-ref url="x/" %}
-[x](x/)
+{% content-ref url="x.md" %}
+[x.md](x.md)
 {% endcontent-ref %}
 
 {% content-ref url="y.md" %}

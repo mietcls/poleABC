@@ -1,4 +1,4 @@
-# Quest
+# Quest \[beginner] \[intermediate]
 
 _No tutorial found yet, but we do have an example in one of our compilations ☺️_
 
