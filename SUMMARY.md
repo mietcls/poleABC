@@ -340,7 +340,7 @@
   * [Pike \[beginner\]](p/pike-beginner.md)
   * [Pike Seat \[beginner\]](p/pike-seat-beginner.md)
   * [Pinwheel spin \[beginner\] \[choreo trick\]](p/pinwheel-spin-beginner-choreo-trick.md)
-  * [Pirouette \[beginner\] \[choreo trick\] \[sensual\]](<p/p-1 (1).md>)
+  * [Pirouette \[beginner\] \[choreo trick\]](<p/p-1 (1).md>)
   * [Plank \[beginner\] \[choreo trick\]](p/plank-beginner-choreo-trick.md)
   * [Plie Spin \[beginner\] \[intermediate\] \[choreo trick\]](<p/p-2 (1).md>)
   * [Plus Sign \[advanced\]](p/plus-sign-advanced.md)
