@@ -10,6 +10,10 @@
 
 {% embed url="https://www.instagram.com/p/CIVlCqQIQb_/" %}
 
-## Exotic choreo \[beginner - intermediate] \[choreo] \[sensual]
+## Exotic choreo \[beginner] \[intermediate] \[choreo]
 
 {% embed url="https://www.youtube.com/watch?v=7DingRTZHmU" %}
+
+## Exotic pole combo \[beginner] \[choreo]
+
+{% embed url="https://www.youtube.com/watch?v=W1Lh5wB3u8A" %}

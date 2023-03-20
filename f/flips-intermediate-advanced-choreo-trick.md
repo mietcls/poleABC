@@ -9,3 +9,5 @@
 {% embed url="https://www.youtube.com/watch?v=_CFCcO_UhEE" %}
 
 {% embed url="https://www.youtube.com/shorts/WHHiiHpwIkI" %}
+
+{% embed url="https://www.youtube.com/watch?v=8mR7_BEqYXw" %}
