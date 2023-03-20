@@ -64,12 +64,12 @@
 [p](p/)
 {% endcontent-ref %}
 
-{% content-ref url="q/" %}
-[q](q/)
+{% content-ref url="q.md" %}
+[q.md](q.md)
 {% endcontent-ref %}
 
-{% content-ref url="r.md" %}
-[r.md](r.md)
+{% content-ref url="r/" %}
+[r](r/)
 {% endcontent-ref %}
 
 {% content-ref url="s/" %}
