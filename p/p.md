@@ -1,27 +1,17 @@
-# PEG – PEN
+# Pegasus \[intermediate] \[advanced]
 
-## Pegasus \[intermediate] \[advanced]
+Click the link! [https://www.youtube.com/watch?v=\_Vu21iP0d3U](https://www.youtube.com/watch?v=\_Vu21iP0d3U)
 
-{% embed url="https://www.youtube.com/watch?v=_Vu21iP0d3U" %}
+{% embed url="https://www.youtube.com/watch?v=8QbstWhNoqQ" %}
 
-{% embed url="https://www.instagram.com/reel/CaHys-Bg9Jo" %}
+{% embed url="https://www.youtube.com/watch?v=C9TMTcz-mT4" %}
 
-## Pencil \[intermediate]
+{% embed url="https://www.youtube.com/watch?v=nsQwywHZiqo" %}
 
-{% embed url="https://www.youtube.com/watch?v=Uhd9r8AQP-k" %}
+{% embed url="https://www.youtube.com/watch?v=2XgaF96_6yY" %}
 
-{% embed url="https://www.youtube.com/watch?v=ID-ifbngmWc" %}
+{% embed url="https://www.youtube.com/watch?v=4z5CogCnAFs" %}
 
-{% embed url="https://www.youtube.com/watch?v=wKPQUYAuhSs" %}
+{% embed url="https://www.youtube.com/watch?v=QkDMzvBW2A0" %}
 
-## Pencil Ayesha __ \[intermediate] \[advanced]
-
-_No tutorial found yet, but we do have an example in one of our compilations ☺️_
-
-_Send a message if you find a tutorial 😍_ [_https://www.instagram.com/pole.abc/_](https://www.instagram.com/pole.abc/) _or_ [_pole-abc@miet.be_](mailto:pole-abc@miet.be) _– or make one with me!_&#x20;
-
-{% embed url="https://www.instagram.com/p/CI6b_DZhJrD/" %}
-
-## Pendant \[intermediate] \[advanced]
-
-{% embed url="https://www.instagram.com/p/B202iRVBvpB/" %}
+{% embed url="https://www.youtube.com/watch?v=gIwiOm-9f7Q" %}

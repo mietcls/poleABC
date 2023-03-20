@@ -68,8 +68,8 @@
 [q.md](q.md)
 {% endcontent-ref %}
 
-{% content-ref url="r/" %}
-[r](r/)
+{% content-ref url="r.md" %}
+[r.md](r.md)
 {% endcontent-ref %}
 
 {% content-ref url="s/" %}

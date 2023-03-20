@@ -1,5 +1,9 @@
 # Workouts, Classes, Conditioning & Flexibility
 
+## Beginner tips for terminology
+
+{% embed url="https://www.youtube.com/watch?v=DC8bqjmM-JI&list=PLe7qARHLD35JPBPpqIJW4NCTpeyGrGdpk" %}
+
 ## Free classes
 
 ### Nicole The Pole \[Free class] \[warm up] \[stretch]
