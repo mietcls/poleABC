@@ -1,8 +1,8 @@
-# One Armed Elbow Stand \[beginner] \[intermediate]
+# Odette \[beginner]
 
-{% embed url="https://www.instagram.com/p/CDgjtDXJpOR/" %}
+{% embed url="https://www.instagram.com/p/BrfN5YbFUxw/" %}
 
-## Variation
+### Odette variation (Flamingo) \[beginner]
 
 _No tutorial found yet, but we do have an example in one of our compilations ☺️_
 

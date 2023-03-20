@@ -84,20 +84,20 @@
 [u.md](u.md)
 {% endcontent-ref %}
 
-{% content-ref url="v.md" %}
-[v.md](v.md)
+{% content-ref url="v/" %}
+[v](v/)
 {% endcontent-ref %}
 
-{% content-ref url="w.md" %}
-[w.md](w.md)
+{% content-ref url="w/" %}
+[w](w/)
 {% endcontent-ref %}
 
 {% content-ref url="x.md" %}
 [x.md](x.md)
 {% endcontent-ref %}
 
-{% content-ref url="y/" %}
-[y](y/)
+{% content-ref url="y.md" %}
+[y.md](y.md)
 {% endcontent-ref %}
 
 {% content-ref url="z.md" %}
