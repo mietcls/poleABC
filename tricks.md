@@ -96,8 +96,8 @@
 [x.md](x.md)
 {% endcontent-ref %}
 
-{% content-ref url="y.md" %}
-[y.md](y.md)
+{% content-ref url="y/" %}
+[y](y/)
 {% endcontent-ref %}
 
 {% content-ref url="z.md" %}
