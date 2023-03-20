@@ -1,16 +1,10 @@
-# Q – QU
-
-## The Q (Viva) \[intermediate]
+# Q (Viva) \[beginner] \[intermediate]
 
 {% embed url="https://www.youtube.com/watch?v=i3NP2yvJvmc" %}
 French
 {% endembed %}
 
-## Quarterback \[intermediate - advanced]
-
-{% embed url="https://www.youtube.com/watch?v=S0BAST1sU2k" %}
-
-## Queen (No Handed) \[intermediate] \[choreo trick] \[sensual]
+## Queen (No Handed) \[intermediate] \[choreo trick]
 
 {% embed url="https://www.instagram.com/tv/CJLaaiIhVCI/" %}
 

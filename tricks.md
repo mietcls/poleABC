@@ -64,8 +64,8 @@
 [p](p/)
 {% endcontent-ref %}
 
-{% content-ref url="q.md" %}
-[q.md](q.md)
+{% content-ref url="q/" %}
+[q](q/)
 {% endcontent-ref %}
 
 {% content-ref url="r.md" %}
@@ -84,12 +84,12 @@
 [u.md](u.md)
 {% endcontent-ref %}
 
-{% content-ref url="v/" %}
-[v](v/)
+{% content-ref url="v.md" %}
+[v.md](v.md)
 {% endcontent-ref %}
 
-{% content-ref url="w/" %}
-[w](w/)
+{% content-ref url="w.md" %}
+[w.md](w.md)
 {% endcontent-ref %}
 
 {% content-ref url="x.md" %}
