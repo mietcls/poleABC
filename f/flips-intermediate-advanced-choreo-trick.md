@@ -11,3 +11,5 @@
 {% embed url="https://www.youtube.com/shorts/WHHiiHpwIkI" %}
 
 {% embed url="https://www.youtube.com/watch?v=8mR7_BEqYXw" %}
+
+{% embed url="https://www.instagram.com/p/CnymZ3zAz8d/" %}

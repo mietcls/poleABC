@@ -4,11 +4,19 @@
 
 {% embed url="https://www.instagram.com/p/CID5Lh2hqSt/" %}
 
+{% embed url="https://www.instagram.com/p/CpLYKTcvFXN/" %}
+
 {% embed url="https://www.instagram.com/p/CK8tDDXoi4A/" %}
+
+{% embed url="https://www.instagram.com/p/CoD-aksptHQ/" %}
 
 ## Turn to split \[intermediate] \[choreo trick]
 
 {% embed url="https://www.instagram.com/p/CHf8kB2hzz9/" %}
+
+## Turning on pointed toe and arms \[beginner]
+
+{% embed url="https://www.instagram.com/p/Cp3gjHBrf2l/" %}
 
 ## 360 Turn to Drop \[intermediate] \[choreo trick]
 

@@ -5,3 +5,7 @@
 {% embed url="https://www.youtube.com/watch?v=J2ap0kdIVqo" %}
 
 {% embed url="https://www.instagram.com/p/CMReDxzhU7p/" %}
+
+{% embed url="https://www.instagram.com/p/CopVpWbK1OF/" %}
+
+{% embed url="https://www.instagram.com/p/Cn04rZSAwpg/" %}

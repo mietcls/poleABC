@@ -1,3 +1,3 @@
-# Scissors \[beginner] \[choreo trick] \[sensual]
+# Scissors \[beginner] \[choreo trick]
 
-{% embed url="https://www.instagram.com/p/Bos0QDhlXJ-/" %}
+{% embed url="https://www.instagram.com/p/Co75qDsI1sO/" %}
