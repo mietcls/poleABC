@@ -1,9 +1,9 @@
-# Shoulder Rolls \[beginner] \[intermediate] \[choreo trick] \[sensual]
+# Shoulder Rolls \[beginner] \[intermediate] \[choreo trick]
 
-## Shoulder Roll \[choreo trick] \[sensual]
+Click the link! [https://www.youtube.com/watch?v=16gnU\_EgVDM](https://www.youtube.com/watch?v=16gnU\_EgVDM)&#x20;
 
-{% embed url="https://www.youtube.com/watch?v=16gnU_EgVDM" %}
+{% embed url="https://www.instagram.com/p/Ck32xjgs1c2/" %}
 
-## Shoulder Roll Transition \[beginner] \[choreo trick] \[sensual]
+{% embed url="https://www.youtube.com/watch?v=4pxdPZDu1gA" %}
 
-{% embed url="https://www.instagram.com/p/CJpGH5rhq24/" %}
+{% embed url="https://www.youtube.com/watch?v=ANfTb4jU7wI" %}
