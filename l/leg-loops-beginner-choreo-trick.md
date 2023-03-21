@@ -9,3 +9,5 @@ Not a real tutorial but still handy!
 {% embed url="https://www.instagram.com/p/Cnq-KdFJcoL/" %}
 
 {% embed url="https://www.instagram.com/p/ClouggNP7Cq/" %}
+
+{% embed url="https://www.instagram.com/p/CXjbMerjhVM/" %}
