@@ -2,7 +2,17 @@
 
 ## Superman \[intermediate]
 
+{% embed url="https://www.youtube.com/watch?v=rQomTX3fDrg" %}
+
+{% embed url="https://www.youtube.com/watch?v=l_jcxAtBDl0" %}
+
+{% embed url="https://www.youtube.com/watch?v=WUdI9T5jJUc" %}
+
+{% embed url="https://www.youtube.com/watch?v=19o5GbI8AzA" %}
+
 {% embed url="https://www.instagram.com/p/CoF5CKvoYIC/" %}
+
+{% embed url="https://www.instagram.com/p/Cblq3RnJYOm/" %}
 
 ## Superman Embrace \[intermediate]
 

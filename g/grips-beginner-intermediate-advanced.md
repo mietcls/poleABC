@@ -1,4 +1,4 @@
-# Grips \[beginner] \[intermediate] \[advanced]
+# Grip Tips \[beginner] \[intermediate] \[advanced]
 
 Click the link below:
 

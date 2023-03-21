@@ -6,4 +6,6 @@
 Not a real tutorial but still handy!
 {% endembed %}
 
+{% embed url="https://www.instagram.com/p/Cnq-KdFJcoL/" %}
+
 {% embed url="https://www.instagram.com/p/ClouggNP7Cq/" %}
