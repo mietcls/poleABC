@@ -68,8 +68,8 @@
 [shoulder-rolls-beginner-intermediate-choreo-trick-sensual.md](shoulder-rolls-beginner-intermediate-choreo-trick-sensual.md)
 {% endcontent-ref %}
 
-{% content-ref url="shoulder-slide-beginner-choreo-trick-sensual.md" %}
-[shoulder-slide-beginner-choreo-trick-sensual.md](shoulder-slide-beginner-choreo-trick-sensual.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="../intermediate-s/shoulder-stand-beginner-intermediate-choreo-trick-sensual.md" %}
