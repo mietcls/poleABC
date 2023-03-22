@@ -29,3 +29,7 @@
 ## Grace
 
 {% embed url="https://www.instagram.com/p/CXjZ7J3p_p3/" %}
+
+## Spinning
+
+{% embed url="https://www.instagram.com/p/BuSZSjLBCFG/" %}
