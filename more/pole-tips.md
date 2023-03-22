@@ -1,8 +1,12 @@
 # Pole tips
 
+{% embed url="https://www.instagram.com/p/CM2SB9eh65Y/" %}
+
 ## Training schedule
 
 {% embed url="https://www.youtube.com/watch?v=VyWYw-J67sk" %}
+
+{% embed url="https://www.instagram.com/p/COnAq_uNXlK/" %}
 
 ## Performing
 
@@ -26,6 +30,8 @@
 
 {% embed url="https://www.instagram.com/p/CqDD7byo-do/" %}
 
+{% embed url="https://www.instagram.com/p/CNSpgwCF6n5/" %}
+
 ## Grace
 
 {% embed url="https://www.instagram.com/p/CXjZ7J3p_p3/" %}
@@ -33,3 +39,7 @@
 ## Spinning
 
 {% embed url="https://www.instagram.com/p/BuSZSjLBCFG/" %}
+
+## Shoes
+
+{% embed url="https://www.instagram.com/p/CPNz1b6BN66/" %}

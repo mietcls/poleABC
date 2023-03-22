@@ -7,3 +7,7 @@
 {% embed url="https://www.instagram.com/p/CD1AMxSguWR/" %}
 
 {% embed url="https://www.instagram.com/p/CMt1sf5BAef/" %}
+
+{% embed url="https://www.instagram.com/p/BuMKmyRAI3m/" %}
+
+{% embed url="https://www.instagram.com/p/COp48cdhK_a/" %}

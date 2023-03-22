@@ -15,3 +15,9 @@
 {% embed url="https://www.instagram.com/p/CQwAbPSFMGZ/" %}
 
 {% embed url="https://www.instagram.com/p/Cim5ic_JKuZ/" %}
+
+{% embed url="https://www.instagram.com/p/COpy5vVgNN_/" %}
+
+{% embed url="https://www.instagram.com/p/COpy4fQgTrN/" %}
+
+{% embed url="https://www.instagram.com/p/COpypxygnVV/" %}

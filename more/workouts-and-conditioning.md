@@ -12,6 +12,10 @@ Air Walk Spin, Hanging Air Walk, Superman, Ayesha Elbow grip, Twisted Grip, Jade
 
 {% embed url="https://www.instagram.com/tv/CFnOJkjJkRy/" %}
 
+### Donkakong short choreo
+
+{% embed url="https://www.instagram.com/p/CNaTBkqIH1k/" %}
+
 ### Polerskating class with [@itsmshawkins2u](https://www.instagram.com/itsmshawkins2u/) \[Free Class] \[Polerskating]&#x20;
 
 {% embed url="https://www.instagram.com/tv/CExLPr2puFK/" %}
@@ -26,7 +30,25 @@ Air Walk Spin, Hanging Air Walk, Superman, Ayesha Elbow grip, Twisted Grip, Jade
 
 {% embed url="https://www.instagram.com/reel/CWY7SusoWS-" %}
 
-### Polearena Margeaux Conditioning
+### Old School combo by Estefania Jimenez
+
+{% embed url="https://www.instagram.com/p/CKXJ0iVgtZJ/" %}
+
+### Marion Crampe Spinning Combo
+
+{% embed url="https://www.instagram.com/p/CMsrfi6FkxL/" %}
+
+### Marlo Fisken classes for Flow
+
+{% embed url="https://www.instagram.com/p/Bk17j8OAOT0/" %}
+
+{% embed url="https://www.instagram.com/p/BlBiOUZhiJ0/" %}
+
+{% embed url="https://www.instagram.com/p/BlVoOV4Aad8/" %}
+
+{% embed url="https://www.instagram.com/p/Bk-JPY2AeQw/" %}
+
+## Polearena Margeaux Conditioning challenge
 
 {% embed url="https://www.instagram.com/reel/CYv5UJJB0GF" %}
 

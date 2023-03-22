@@ -2,9 +2,13 @@
 
 ## Superman \[intermediate]
 
+{% embed url="https://www.instagram.com/p/CNSmkOVAekq/" %}
+
 {% embed url="https://www.instagram.com/p/CKFNA7Ah7CQ/" %}
 
 {% embed url="https://www.youtube.com/watch?v=rQomTX3fDrg" %}
+
+{% embed url="https://www.instagram.com/p/CMn2yjtlYsd/" %}
 
 {% embed url="https://www.youtube.com/watch?v=l_jcxAtBDl0" %}
 

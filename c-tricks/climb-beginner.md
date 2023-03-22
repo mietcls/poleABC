@@ -6,6 +6,8 @@
 
 {% embed url="https://www.instagram.com/p/CnFxK5dg-yt/" %}
 
+{% embed url="https://www.instagram.com/p/CLYL3ZyheiO/" %}
+
 {% embed url="https://www.instagram.com/p/CcnQMneJVfi/" %}
 
 {% embed url="https://www.instagram.com/p/CIb7TVHH46H/" %}
