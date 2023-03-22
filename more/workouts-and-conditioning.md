@@ -30,6 +30,10 @@ Air Walk Spin, Hanging Air Walk, Superman, Ayesha Elbow grip, Twisted Grip, Jade
 
 {% embed url="https://www.instagram.com/reel/CYv5UJJB0GF" %}
 
+## Leg day With Elena
+
+{% embed url="https://www.instagram.com/p/CGav9melnTl/" %}
+
 ## Flexibility Splits Kheanna Walker
 
 {% embed url="https://www.instagram.com/reel/CX1GBqvJSop" %}
