@@ -14,9 +14,11 @@ Choreography
 
 {% embed url="https://www.instagram.com/p/CVkrZ6eAxnP/" %}
 
-Filming
+Filming & Photos
 
 {% embed url="https://www.instagram.com/p/Cai-6byhtAw/" %}
+
+{% embed url="https://www.instagram.com/p/CHli-SAHrBw/" %}
 
 Beginners
 
