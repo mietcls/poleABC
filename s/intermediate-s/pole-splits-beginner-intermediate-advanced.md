@@ -4,6 +4,8 @@
 
 {% embed url="https://www.instagram.com/p/CISMN0XBKEc/" %}
 
+{% embed url="https://www.instagram.com/p/CPQFmV1BasT/" %}
+
 {% embed url="https://www.instagram.com/p/CIGf1UahL3Q/" %}
 
 ## Split Roll Through \[intermediate] \[choreo trick]

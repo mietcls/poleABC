@@ -6,6 +6,8 @@
 
 {% embed url="https://www.instagram.com/p/CVcUjhaIQaY/" %}
 
+{% embed url="https://www.instagram.com/p/CPiHQW_IdWY/" %}
+
 ## Floor
 
 {% embed url="https://www.instagram.com/p/CU3EiXPBrzw/" %}

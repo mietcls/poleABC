@@ -7,3 +7,5 @@
 {% embed url="https://www.youtube.com/watch?v=N9BQB-D2Y8Q" %}
 
 {% embed url="https://www.instagram.com/p/CggA5tuFqML/" %}
+
+{% embed url="https://www.instagram.com/p/CUP0tCHh_0Z/" %}

@@ -20,6 +20,8 @@
 
 {% embed url="https://www.instagram.com/p/Cblq3RnJYOm/" %}
 
+{% embed url="https://www.instagram.com/p/CNqtKguBofn/" %}
+
 ## Superman Embrace \[intermediate]
 
 {% embed url="https://www.youtube.com/watch?v=Jz2aabW9E2Q" %}
@@ -41,3 +43,7 @@ Click the link: [https://www.youtube.com/watch?v=ZLRALMhAaJw](https://www.youtub
 {% embed url="https://www.youtube.com/watch?v=8h5qyfZnCos" %}
 
 {% embed url="https://www.youtube.com/watch?v=ni5lucOSsh8" %}
+
+## Exits
+
+{% embed url="https://www.instagram.com/p/CUKsuKJh1Rh/" %}

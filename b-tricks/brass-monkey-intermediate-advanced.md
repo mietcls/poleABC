@@ -22,6 +22,8 @@ Follow Dan Rosen first!
 
 {% embed url="https://www.youtube.com/watch?v=XyIy3ZA7K0U" %}
 
+{% embed url="https://www.instagram.com/p/CSjcbO2IdOv/" %}
+
 With Bunny grip:
 
 {% embed url="https://www.instagram.com/p/B0RiLagBrWf/" %}

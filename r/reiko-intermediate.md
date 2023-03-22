@@ -4,6 +4,10 @@
 
 {% embed url="https://www.youtube.com/watch?v=HbAX4RJ73M8" %}
 
+Step up to Reiko:
+
+{% embed url="https://www.instagram.com/p/CQ127szidyz/" %}
+
 ### Reiko Floor \[beginner]
 
 _No tutorial found yet, but we do have an example in one of our compilations ☺️_

@@ -40,6 +40,8 @@
 
 {% embed url="https://www.instagram.com/p/BuSZSjLBCFG/" %}
 
+{% embed url="https://www.instagram.com/p/CUNOQXbhkYw/" %}
+
 ## Shoes
 
 {% embed url="https://www.instagram.com/p/CPNz1b6BN66/" %}
