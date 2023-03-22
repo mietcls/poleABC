@@ -72,8 +72,8 @@
 [Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="../intermediate-s/shoulder-stand-beginner-intermediate-choreo-trick-sensual.md" %}
-[shoulder-stand-beginner-intermediate-choreo-trick-sensual.md](../intermediate-s/shoulder-stand-beginner-intermediate-choreo-trick-sensual.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="show-pony-beginner-pose-choreo-trick-sensual.md" %}
@@ -100,20 +100,20 @@
 [spatchcock-advanced-expert.md](../advanced-s/spatchcock-advanced-expert.md)
 {% endcontent-ref %}
 
-{% content-ref url="../intermediate-s/spinning-pole-beginner-intermediate-choreo-trick-sensual.md" %}
-[spinning-pole-beginner-intermediate-choreo-trick-sensual.md](../intermediate-s/spinning-pole-beginner-intermediate-choreo-trick-sensual.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="../intermediate-s/spin-to-stand-beginner-intermediate-choreo-trick-sensual.md" %}
-[spin-to-stand-beginner-intermediate-choreo-trick-sensual.md](../intermediate-s/spin-to-stand-beginner-intermediate-choreo-trick-sensual.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="splash-choreo-trick-sensual.md" %}
 [splash-choreo-trick-sensual.md](splash-choreo-trick-sensual.md)
 {% endcontent-ref %}
 
-{% content-ref url="../intermediate-s/spot-transitions-beginner-intermediate-choreo-trick-sensual.md" %}
-[spot-transitions-beginner-intermediate-choreo-trick-sensual.md](../intermediate-s/spot-transitions-beginner-intermediate-choreo-trick-sensual.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="../intermediate-s/pole-splits-beginner-intermediate-advanced.md" %}

@@ -1,4 +1,4 @@
-# Shoulder mount \[intermediate] \[advanced]
+# Shoulder mount (+ flip) \[intermediate] \[advanced]
 
 {% embed url="https://www.youtube.com/watch?v=Y61Rs9HBYaQ" %}
 
@@ -13,5 +13,7 @@
 {% embed url="https://www.instagram.com/reel/CWddp5xAhL8" %}
 
 ## Shoulder mount flip \[intermediate] \[advanced]
+
+{% embed url="https://www.youtube.com/watch?v=u1gg7jn6zi4" %}
 
 {% embed url="https://www.instagram.com/reel/CYopOezpC5I" %}

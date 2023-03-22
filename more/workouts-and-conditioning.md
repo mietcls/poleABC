@@ -46,7 +46,13 @@ Air Walk Spin, Hanging Air Walk, Superman, Ayesha Elbow grip, Twisted Grip, Jade
 
 With and without pole workouts. Go to her profile to see more workouts.
 
+{% embed url="https://www.youtube.com/watch?v=77JKhXI9gkc" %}
+
 {% embed url="https://www.youtube.com/c/scorpionmind/videos" %}
+
+{% embed url="https://www.youtube.com/watch?v=7ID-oDafEaM" %}
+
+{% embed url="https://www.youtube.com/watch?v=wQ5Ugj1Lm6Y" %}
 
 ## [Anna McNulty](https://www.youtube.com/c/AnnaMcnulty) Flexibility Follow-alongs
 

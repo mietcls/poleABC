@@ -1,8 +1,18 @@
-# General tips
+# Pole tips
+
+Training schedule
+
+{% embed url="https://www.youtube.com/watch?v=VyWYw-J67sk" %}
 
 Performing
 
 {% embed url="https://www.instagram.com/p/CbAnWmWFS_F/" %}
+
+Choreography
+
+{% embed url="https://www.instagram.com/p/CVfsiaQAfgn/" %}
+
+{% embed url="https://www.instagram.com/p/CVkrZ6eAxnP/" %}
 
 Filming
 

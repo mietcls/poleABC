@@ -20,8 +20,8 @@
 [shoulder-mount-intermediate-advanced.md](shoulder-mount-intermediate-advanced.md)
 {% endcontent-ref %}
 
-{% content-ref url="shoulder-stand-beginner-intermediate-choreo-trick-sensual.md" %}
-[shoulder-stand-beginner-intermediate-choreo-trick-sensual.md](shoulder-stand-beginner-intermediate-choreo-trick-sensual.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="../s/baby-snake-pirate-beginner-intermediate-choreo-trick-sensual.md" %}
@@ -32,20 +32,20 @@
 [sneaky-v-intermediate-advanced.md](sneaky-v-intermediate-advanced.md)
 {% endcontent-ref %}
 
-{% content-ref url="spinning-pole-beginner-intermediate-choreo-trick-sensual.md" %}
-[spinning-pole-beginner-intermediate-choreo-trick-sensual.md](spinning-pole-beginner-intermediate-choreo-trick-sensual.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="spin-to-stand-beginner-intermediate-choreo-trick-sensual.md" %}
-[spin-to-stand-beginner-intermediate-choreo-trick-sensual.md](spin-to-stand-beginner-intermediate-choreo-trick-sensual.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="spot-transitions-beginner-intermediate-choreo-trick-sensual.md" %}
-[spot-transitions-beginner-intermediate-choreo-trick-sensual.md](spot-transitions-beginner-intermediate-choreo-trick-sensual.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="spin-transition-intermediate-choreo-trick-sensual.md" %}
-[spin-transition-intermediate-choreo-trick-sensual.md](spin-transition-intermediate-choreo-trick-sensual.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="pole-splits-beginner-intermediate-advanced.md" %}
