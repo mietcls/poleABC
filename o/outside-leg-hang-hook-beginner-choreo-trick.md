@@ -24,4 +24,6 @@
 
 {% embed url="https://www.instagram.com/p/CoGHi7xj0hY/" %}
 
+{% embed url="https://www.instagram.com/p/CUv2uoJoo4Z/" %}
+
 {% embed url="https://www.instagram.com/p/CVcUjhaIQaY/" %}
