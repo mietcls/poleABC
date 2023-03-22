@@ -1,5 +1,13 @@
 # Cherry Ribbon \[advanced]
 
-_No tutorial found yet – send a message if you find one 😍_ [_https://www.instagram.com/pole.abc/_](https://www.instagram.com/pole.abc/) _or_ [_pole-abc@miet.be_](mailto:pole-abc@miet.be)\_\_
+{% embed url="https://www.youtube.com/watch?v=CYHEkNKDAtQ" %}
 
 {% embed url="https://www.instagram.com/p/CHdFk4PhIoD/" %}
+
+Variation: Cherry Flexure
+
+{% embed url="https://www.youtube.com/watch?v=t2YIlHxV52Y" %}
+
+Variation: Cherry Kink
+
+{% embed url="https://www.instagram.com/p/CJEDGMTB9gy/" %}

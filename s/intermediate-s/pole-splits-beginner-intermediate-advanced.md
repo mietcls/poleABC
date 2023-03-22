@@ -1,10 +1,10 @@
 # Pole Splits \[beginner] \[intermediate] \[advanced]
 
-## 7 Pole Splits
-
 {% embed url="https://www.youtube.com/watch?v=NA3LfcJ11ws" %}
 
 {% embed url="https://www.instagram.com/p/CISMN0XBKEc/" %}
+
+{% embed url="https://www.instagram.com/p/CIGf1UahL3Q/" %}
 
 ## Split Roll Through \[intermediate] \[choreo trick] \[sensual]
 
