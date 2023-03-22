@@ -1,29 +1,31 @@
 # Pole tips
 
-Training schedule
+## Training schedule
 
 {% embed url="https://www.youtube.com/watch?v=VyWYw-J67sk" %}
 
-Performing
+## Performing
 
 {% embed url="https://www.instagram.com/p/CbAnWmWFS_F/" %}
 
-Choreography
+## Choreography
 
 {% embed url="https://www.instagram.com/p/CVfsiaQAfgn/" %}
 
 {% embed url="https://www.instagram.com/p/CVkrZ6eAxnP/" %}
 
-Filming & Photos
+## Filming & Photos
 
 {% embed url="https://www.instagram.com/p/Cai-6byhtAw/" %}
 
 {% embed url="https://www.instagram.com/p/CHli-SAHrBw/" %}
 
-Beginners
+{% embed url="https://www.instagram.com/p/CP0s6WeAW50/" %}
+
+## Beginners
 
 {% embed url="https://www.instagram.com/p/CqDD7byo-do/" %}
 
-Grace
+## Grace
 
 {% embed url="https://www.instagram.com/p/CXjZ7J3p_p3/" %}
