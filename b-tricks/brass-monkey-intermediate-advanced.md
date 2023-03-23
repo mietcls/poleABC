@@ -28,6 +28,8 @@ With Bunny grip:
 
 {% embed url="https://www.instagram.com/p/B0RiLagBrWf/" %}
 
+{% embed url="https://www.instagram.com/p/CbGF8VOoQuM/" %}
+
 ## Brass Monkey Variation \[advanced]
 
 Click the link!

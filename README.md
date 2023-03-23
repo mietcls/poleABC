@@ -64,8 +64,8 @@ See how we did already!
 [pole-tricks-dictionary.md](more/pole-tricks-dictionary.md)
 {% endcontent-ref %}
 
-{% content-ref url="more/workouts-and-conditioning.md" %}
-[workouts-and-conditioning.md](more/workouts-and-conditioning.md)
+{% content-ref url="more/workouts-and-conditioning/" %}
+[workouts-and-conditioning](more/workouts-and-conditioning/)
 {% endcontent-ref %}
 
 {% hint style="info" %}

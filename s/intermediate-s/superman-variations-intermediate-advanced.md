@@ -22,6 +22,8 @@
 
 {% embed url="https://www.instagram.com/p/CNqtKguBofn/" %}
 
+{% embed url="https://www.instagram.com/p/CQvg1ABLsr5/" %}
+
 ## Superman Embrace \[intermediate]
 
 {% embed url="https://www.youtube.com/watch?v=Jz2aabW9E2Q" %}
